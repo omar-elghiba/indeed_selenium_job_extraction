@@ -26,7 +26,7 @@ This file creates a CSV file to store the extracted data.
 
 This is the CSV file where the data is stored.
 
-Please see the following image for an overview of the process:
+Please see the following image for an overview of the process.
 
 ### Visit the Selenium Grid Interface :
 
