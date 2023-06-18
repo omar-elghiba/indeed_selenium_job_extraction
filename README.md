@@ -28,7 +28,7 @@ This is the CSV file where the data is stored.
 
 Please see the following image for an overview of the process:
 
-### Visit the Selenium Grid Interface.
+### Visit the Selenium Grid Interface :
 
 #### http://srv2.omarelghiba.com:4444/
 
