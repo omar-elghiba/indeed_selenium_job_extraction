@@ -28,6 +28,12 @@ This is the CSV file where the data is stored.
 
 Please see the following image for an overview of the process:
 
+## Visite Selenium Grid Interface :
+
+###http://srv2.omarelghiba.com:4444/
+
+![alt text](https://iili.io/H6QEYDg.png)
+
 ## Part 2: HRflow.ai API
 This part of the project focuses on storing the extracted data using the hrflow.ai API.
 
