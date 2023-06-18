@@ -1,0 +1,21 @@
+version: '3.8'
+services:
+  selenium-server:
+    image: selenium/standalone-chrome
+    networks:
+      - mynetwork
+    ports:
+      - "4444:4444"
+  my-app:
+    build:
+      context: .
+      dockerfile: Dockerfile
+    command: python3 /app/entrypoint.py
+    volumes:
+      - .:/app
+    depends_on:
+      - selenium-server
+    networks:
+      - mynetwork
+networks:
+  mynetwork:
