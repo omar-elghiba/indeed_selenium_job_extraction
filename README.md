@@ -1,7 +1,7 @@
 # indeed_selenium_job_extraction
 
 
-Project Name
+#Project Name
 (Please replace "Project Name" with the name of your project)
 
 Part 1: Job Scraping
