@@ -32,9 +32,7 @@ Please see the following image for an overview of the process:
 
 ### http://srv2.omarelghiba.com:4444/
 
-![alt text](https://iili.io/H6QEYDg.png)
-
-<img src="https://github.com/favicon.ico" width="48">
+<img src="[https://github.com/favicon.ico](https://iili.io/H6QEYDg.png)" width="200">
 
 
 ## Part 2: HRflow.ai API
