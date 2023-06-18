@@ -1,5 +1,5 @@
 # Indeed Job Extraction
-(Please replace "Project Name" with the name of your project)
+![alt text](https://iili.io/H6LL26v.png)
 
 ## Part 1: Job Scraping
 This part of the project focuses on scraping job data from Indeed using Selenium Grid, multiple proxies, and multi-threading. It is designed to scrape a large number of jobs efficiently and without IP blocking.
